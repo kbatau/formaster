@@ -2,12 +2,12 @@ html {
   width:100%;
   height:100%;
   font-family: gaegu;
-  cursor: url('/resources/images/pixel_art.png'), auto;
+  cursor: url('https://kbatau.github.io/formaster/resources/images/pixel_art.png'), auto;
 }
 body{
   font-size:3em;
   background-color: #8785A2;
-  cursor: url('/resources/images/pixel_art.png'), auto;
+  cursor: url('https://kbatau.github.io/formaster/resources/images/pixel_art.png'), auto;
 }
 h1{
   color:#FFC7C7;
@@ -39,69 +39,69 @@ body, html {
 
 }
 .bgimg-1 {
-  background-image: url("/resources/images/img_parallax.jpg");
+  background-image: url("https://kbatau.github.io/formaster/resources/images/img_parallax.jpg");
   min-height: 100%;
 }
 
 .bgimg-2 {
-  background-image: url("/resources/images/img_parallax2.jpg");
+  background-image: url("https://kbatau.github.io/formaster/resources/images/img_parallax2.jpg");
   min-height: 600px;
 }
 
 .bgimg-3 {
-  background-image: url("/resources/images/img_parallax3.jpg");
+  background-image: url("https://kbatau.github.io/formaster/resources/images/img_parallax3.jpg");
   min-height: 600px;
 }
 .bgimg-4 {
-  background-image: url("/resources/images/img_parallax4.jpg");
+  background-image: url("https://kbatau.github.io/formaster/resources/images/img_parallax4.jpg");
   min-height: 600px;
 }
 .bgimg-5 {
-  background-image: url("/resources/images/img_parallax5.jpg");
+  background-image: url("https://kbatau.github.io/formaster/resources/images/img_parallax5.jpg");
   min-height: 600px;
 }
 .bgimg-6 {
-  background-image: url("/resources/images/img_parallax6.jpg");
+  background-image: url("https://kbatau.github.io/formaster/resources/images/img_parallax6.jpg");
   min-height: 600px;
 }
 .bgimg-7 {
-  background-image: url("/resources/images/img_parallax7.jpg");
+  background-image: url("https://kbatau.github.io/formaster/resources/images/img_parallax7.jpg");
   min-height: 600px;
 }
 .bgimg-8 {
-  background-image: url("/resources/images/img_parallax8.jpg");
+  background-image: url("https://kbatau.github.io/formaster/resources/images/img_parallax8.jpg");
   min-height: 600px;
 }
 .bgimg-9 {
-  background-image: url("/resources/images/img_parallax9.jpg");
+  background-image: url("https://kbatau.github.io/formaster/resources/images/img_parallax9.jpg");
   min-height: 600px;
 }
 .bgimg-10 {
-  background-image: url("/resources/images/img_parallax10.jpg");
+  background-image: url("https://kbatau.github.io/formaster/resources/images/img_parallax10.jpg");
   min-height: 600px;
 }
 .bgimg-11 {
-  background-image: url("/resources/images/img_parallax11.jpg");
+  background-image: url("https://kbatau.github.io/formaster/resources/images/img_parallax11.jpg");
   min-height: 600px;
 }
 .bgimg-12 {
-  background-image: url("/resources/images/img_parallax12.jpg");
+  background-image: url("https://kbatau.github.io/formaster/resources/images/img_parallax12.jpg");
   min-height: 600px;
 }
 .bgimg-13 {
-  background-image: url("/resources/images/img_parallax13.jpg");
+  background-image: url("https://kbatau.github.io/formaster/resources/images/img_parallax13.jpg");
   min-height: 600px;
 }
 .bgimg-14 {
-  background-image: url("/resources/images/img_parallax14.jpg");
+  background-image: url("https://kbatau.github.io/formaster/resources/images/img_parallax14.jpg");
   min-height: 600px;
 }
 .bgimg-15 {
-  background-image: url("/resources/images/img_parallax15.jpg");
+  background-image: url("https://kbatau.github.io/formaster/resources/images/img_parallax15.jpg");
   min-height: 600px;
 }
 .bgimg-16 {
-  background-image: url("/resources/images/img_parallax16.jpg");
+  background-image: url("https://kbatau.github.io/formaster/resources/images/img_parallax16.jpg");
   min-height: 100%;
 }
 
